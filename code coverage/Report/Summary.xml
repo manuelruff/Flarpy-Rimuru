@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoverageReport scope="Summary">
+  <Summary>
+    <Generatedon>17/05/2024 - 19:00:52</Generatedon>
+    <Parser>MultiReportParser (4x OpenCoverParser)</Parser>
+    <Assemblies>3</Assemblies>
+    <Classes>8</Classes>
+    <Files>8</Files>
+    <Coveredlines>200</Coveredlines>
+    <Uncoveredlines>20</Uncoveredlines>
+    <Coverablelines>220</Coverablelines>
+    <Totallines>556</Totallines>
+    <Linecoverage>90.9</Linecoverage>
+    <Coveredbranches>0</Coveredbranches>
+    <Totalbranches>0</Totalbranches>
+    <Coveredmethods>33</Coveredmethods>
+    <Totalmethods>34</Totalmethods>
+    <Methodcoverage>97</Methodcoverage>
+  </Summary>
+  <Coverage>
+    <Assembly name="PlayTests" classes="2" coverage="88.4" coveredlines="100" coverablelines="113" totallines="275" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="14" totalmethods="14" methodcoverage="100">
+      <Class name="BirdTest" coverage="100" coveredlines="73" coverablelines="73" totallines="186" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="10" totalmethods="10" methodcoverage="100" />
+      <Class name="PipeTest" coverage="67.5" coveredlines="27" coverablelines="40" totallines="89" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="4" totalmethods="4" methodcoverage="100" />
+    </Assembly>
+    <Assembly name="scripts" classes="5" coverage="90.1" coveredlines="64" coverablelines="71" totallines="183" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="14" totalmethods="15" methodcoverage="93.3">
+      <Class name="logicScript" coverage="70" coveredlines="7" coverablelines="10" totallines="35" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="2" totalmethods="3" methodcoverage="66.6" />
+      <Class name="pipeMiddleScript" coverage="100" coveredlines="10" coverablelines="10" totallines="26" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="2" totalmethods="2" methodcoverage="100" />
+      <Class name="pipeMoveScript" coverage="100" coveredlines="10" coverablelines="10" totallines="26" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="2" totalmethods="2" methodcoverage="100" />
+      <Class name="pipeSpawnScript" coverage="100" coveredlines="21" coverablelines="21" totallines="48" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="4" totalmethods="4" methodcoverage="100" />
+      <Class name="rimuruScript" coverage="80" coveredlines="16" coverablelines="20" totallines="48" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="4" totalmethods="4" methodcoverage="100" />
+    </Assembly>
+    <Assembly name="Tests" classes="1" coverage="100" coveredlines="36" coverablelines="36" totallines="98" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="5" totalmethods="5" methodcoverage="100">
+      <Class name="UnitTests" coverage="100" coveredlines="36" coverablelines="36" totallines="98" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="5" totalmethods="5" methodcoverage="100" />
+    </Assembly>
+  </Coverage>
+</CoverageReport>

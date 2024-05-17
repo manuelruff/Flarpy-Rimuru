@@ -1,0 +1,33 @@
+{
+  "summary": {
+    "generatedon": "2024-05-17T16:00:52Z",
+    "parser": "MultiReportParser (4x OpenCoverParser)",
+    "assemblies": 3,
+    "classes": 8,
+    "files": 8,
+    "coveredlines": 200,
+    "uncoveredlines": 20,
+    "coverablelines": 220,
+    "totallines": 556,
+    "linecoverage": 90.9,
+    "coveredbranches": 0,
+    "totalbranches": 0,
+    "coveredmethods": 33,
+    "totalmethods": 34,
+    "methodcoverage": 97
+ },
+  "coverage": {
+    "assemblies": [
+      { "name": "PlayTests", "classes": 2, "coverage": 88.4, "coveredlines": 100, "coverablelines": 113, "totallines": 275, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 100, "coveredmethods": 14, "totalmethods": 14, "classesinassembly": [
+        { "name": "BirdTest", "coverage": 100, "coveredlines": 73, "coverablelines": 73, "totallines": 186, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 100, "coveredmethods": 10, "totalmethods": 10 },
+        { "name": "PipeTest", "coverage": 67.5, "coveredlines": 27, "coverablelines": 40, "totallines": 89, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 100, "coveredmethods": 4, "totalmethods": 4 } ] },
+      { "name": "scripts", "classes": 5, "coverage": 90.1, "coveredlines": 64, "coverablelines": 71, "totallines": 183, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 93.3, "coveredmethods": 14, "totalmethods": 15, "classesinassembly": [
+        { "name": "logicScript", "coverage": 70, "coveredlines": 7, "coverablelines": 10, "totallines": 35, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 66.6, "coveredmethods": 2, "totalmethods": 3 },
+        { "name": "pipeMiddleScript", "coverage": 100, "coveredlines": 10, "coverablelines": 10, "totallines": 26, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 100, "coveredmethods": 2, "totalmethods": 2 },
+        { "name": "pipeMoveScript", "coverage": 100, "coveredlines": 10, "coverablelines": 10, "totallines": 26, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 100, "coveredmethods": 2, "totalmethods": 2 },
+        { "name": "pipeSpawnScript", "coverage": 100, "coveredlines": 21, "coverablelines": 21, "totallines": 48, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 100, "coveredmethods": 4, "totalmethods": 4 },
+        { "name": "rimuruScript", "coverage": 80, "coveredlines": 16, "coverablelines": 20, "totallines": 48, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 100, "coveredmethods": 4, "totalmethods": 4 } ] },
+      { "name": "Tests", "classes": 1, "coverage": 100, "coveredlines": 36, "coverablelines": 36, "totallines": 98, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 100, "coveredmethods": 5, "totalmethods": 5, "classesinassembly": [
+        { "name": "UnitTests", "coverage": 100, "coveredlines": 36, "coverablelines": 36, "totallines": 98, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 100, "coveredmethods": 5, "totalmethods": 5 } ] } ]
+  }
+}
