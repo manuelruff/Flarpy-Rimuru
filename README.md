@@ -1,3 +1,3 @@
-This is my first unity program 
+This is my first unity project 
 to be continued from my leptop...
 
