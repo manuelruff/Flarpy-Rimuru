@@ -1,1 +1,3 @@
-this is my firsy unyty program
+This is my first unity program 
+to be continued from my leptop...
+
