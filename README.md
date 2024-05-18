@@ -3,7 +3,7 @@
 This is a game is about a bird named rimuru built to learn the basics of Unity programming and test framework. The main goal of this project was to gain experience in creating edit and play tests.
 
 ## Demosntration:
-
+https://github.com/manuelruff/flarpy-blorb/assets/109958228/a7339af8-03b3-4bba-a4af-046d010e01fc
 
 ## Features
 
