@@ -5,7 +5,6 @@ This is a game about a bird named Rimuru, built to learn the basics of Unity pro
 ## Demonstration
 https://github.com/manuelruff/flarpy-blorb/assets/109958228/a7339af8-03b3-4bba-a4af-046d010e01fc
 
-
 ## Features
 
 * Rimuru dies when it goes out of the screen (above or below) or collides with a pipe.
